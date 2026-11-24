@@ -1,7 +1,7 @@
 :root {
-  font-family: Inter, "Segoe UI", Arial, sans-serif;
-  color: #153b35;
-  background: #f7f7ef;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #111;
+  background: #fff;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -25,9 +25,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   margin: 0;
-  background:
-    radial-gradient(ellipse at 10% 0%, rgb(217 243 106 / 12%), transparent 30rem),
-    #f7f7ef;
+  background: #fff;
 }
 
 button,
